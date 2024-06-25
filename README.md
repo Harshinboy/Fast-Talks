@@ -6,7 +6,6 @@ Fast Talks is a dynamic news website that utilizes the NewsAPI to deliver the la
 
 - **Real-time News Updates:** Fetches and displays the latest news articles using the NewsAPI.
 - **Category Navigation:** Browse news by categories such as Business, Technology, Sports, Entertainment, and more.
-- **Search Functionality:** Search for specific news articles by keywords.
 - **Responsive Design:** Ensures seamless viewing on desktops, tablets, and mobile devices.
 - **User-friendly Interface:** Clean and intuitive layout for easy navigation and readability.
 
