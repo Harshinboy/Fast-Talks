@@ -21,3 +21,11 @@ Fast Talks is a dynamic news website that utilizes the NewsAPI to deliver the la
 1. Obtain an API key from [NewsAPI](https://newsapi.org/).
 2. Replace `YOUR_API_KEY` in the JavaScript file with your NewsAPI key.
 3. Launch the website to start exploring and reading the latest news.
+
+## Project Images
+
+Below are some screenshots of the Fast Talks website:
+
+### Home Page
+![Home Page](home_page.png)
+
